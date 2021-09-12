@@ -1,0 +1,104 @@
+JAVA AND SELENIUM IDE
+
+*what is java
+
+java editor
+
+java component
+
+java process
+
+Java phase have 3types
+*development phase
+File should be saved with (test.java)
+
+*compilation phase
+java c is used to compile
+After compilation,file will be created as test.java
+
+*excecution phase
+JVM will execute the file and give an output
+
+java program can developed by notepad,eclipse,netbean,intteli idea etc...
+
+notepad,eclipse(we should no the syntax erroe while we creating the code)
+
+STEP:
+install jdk1.8
+install Eclipse
+
+
+*DATA MANIPULATION
+storing the data nd retrieving the data
+
+-storing data-store the data in java memory
+-retrieving data- whenever we want get the data from java memory
+
+3TYPES OF DATA TYPES
+
+*primitive datatype
+byte  =1bytes of data(-100to100)
+short =2bytes of data
+int   =4bytes of data
+long  =8bytes of data
+float =4bytes of data
+double=8bytes of data
+char  =2 bytes of data
+boolean=1 bit of datatrue  or false
+
+*non primitive datatype(we should say this as a inbuilt class in java)
+String(inside the double cout we can us words or numerical)
+Array
+
+*Refference datatype
+
+*int x=10;(x-only one time we can print the variable)
+
+OPERATORS:
+An operators can performs operation of an operands
++-,a b;
+
+OPERATORS TYPES:
+Arithemetic 
+Relational [it gives only true or false]
+logical[&,||,!]
+&=all the condition should be satisfy
+&&=if we use the double && the execution time will be fast
+
+||=if any one condition is satisfy it give result
+!=?
+con-cordinational
+stringx=sandeep
+stringy=kumar
+stringz=x+y=sandeepkumar
+
+assignment(=)
+Equivalent(==)
+increment(++)
+decrement(--)
+conditional(?:)
+Bitwise()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
